@@ -26,3 +26,4 @@ typing-extensions==3.7.4.3
 urllib3==1.26.3
 websocket-client==0.58.0
 yarl==1.6.3
+crudgen-django==0.1.4
